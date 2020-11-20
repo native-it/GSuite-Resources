@@ -4,17 +4,7 @@ Google Scripts offer programmatic access to most Google products including Gmail
 
 If you are new, learn how to [build with Google Apps Script](https://www.labnol.org/internet/google-apps-script-developers/32305/).
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
 Here’s an always-updated collection of Google Scripts that will help you do more with your favorite Google products. And you don’t have to be a programmer to use any of these scripts.
-
-
 
 1. [Files Permissions Explorer](https://www.labnol.org/internet/google-drive-access/28237/) - See who has access to your shared files and folders in Google Drive and whether they view or edit permissions.
 2. [Google Form File Uploads](https://www.labnol.org/internet/receive-files-in-google-drive/19697/) - You can receive files directly in your Google Drive from anyone through HTML forms created with HTMLService.
